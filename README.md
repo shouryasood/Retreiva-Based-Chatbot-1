@@ -1,1 +1,1 @@
-# Retreiva-Based-Chatbot-1
+# Retreival-Based-Chatbot-1
